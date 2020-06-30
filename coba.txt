@@ -1,2 +1,3 @@
 mencoba menggunakan remote2 di git
 remote2
+git remote add origin https://github.com/faizadzikri/remote2.git
