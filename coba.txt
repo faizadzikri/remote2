@@ -1,1 +1,2 @@
 mencoba menggunakan remote2 di git
+remote2
